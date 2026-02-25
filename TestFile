@@ -3,3 +3,5 @@
 git add .
 git commit -m “new”
 git push origin main
+// File is updated now 
+My first file on Repository
