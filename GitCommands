@@ -3,3 +3,12 @@
 // git commit -m "Add .gitignore"
 // git push origin main 
 
+// git clone <Repository URL>
+// git clone --> copy remote repo (like github) to your local system
+// git clone --> A new folder is created 
+// git clone --> All files are downloaded into that folder
+
+
+// git diff --> see the (differences) changes between files in your git repo 
+
+// git checkout -f --> 
