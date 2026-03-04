@@ -11,4 +11,6 @@
 
 // git diff --> see the (differences) changes between files in your git repo 
 
-// git checkout -f --> 
+// git checkout -f --> Discard all local uncommited changes 
+//git checkout -f --> restore files to the last commited state 
+//git checkout -f --> Modified files revereted 
