@@ -11,5 +11,7 @@
 
 // Go into the GitHub UI click on main repo
 // Then click on Main -> then click on View all branches 
-// Click on created branch name 
-// 
+// Click on created branch name ann then click on Contribute and select the Pull request 
+// In Pull request title and description enter the details 
+// Click on reviewers setting icon and select the reviwers 
+// Then click on Submit Pull request button 
