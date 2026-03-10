@@ -1,0 +1,15 @@
+// Final Test in Branching 
+// Step1 : Create New Branch and then create new file 
+// Changes available in New Branch must be in file 
+
+// Save the changes by using git add . 
+// Commit the changes by using git commit -m "Message"
+// push the changes to main branch using git push origin main 
+
+// Now from created Branch git fetch 
+// get the that chages pulled into the new branch git pull origin NewBranchName
+
+// Go into the GitHub UI click on main repo
+// Then click on Main -> then click on View all branches 
+// Click on created branch name 
+// 
